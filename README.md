@@ -20,7 +20,7 @@ This analysis described in the associated manuscript was performed in R. Thus, y
 This project made use of a Bayesian Analysis package called [Nimble](https://r-nimble.org/). See the Nimble website for documentation and a tutorial. Then, refer to the R scripts in this repo that have names beginning with `nimble...`
 
 
-##Replication Outline
+## Replication Outline
 1. Generate simulated data
    * See `./R_scripts/Analysis/simulate_dates_regression.R`
 2. Convert the count series into a set of calendar dates and feed it into OxCal using CQL2 (e.g., see `./OxCal/kde_reg_500.oxcal`)
