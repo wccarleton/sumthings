@@ -12,6 +12,6 @@ This repo used to contain code relevant to an earlier version of the paper noted
 
 For the new version of the paper, we have created an R Markdown file detailing the simulation and analysis. The markdown file can be found in the [wiki associated with this repo](https://github.com/wccarleton/sumthings/wiki/replication).
 
-The older code used in the simulation portion of the first paper is still available, though, in this repo's history using the following hash: *cef3404787e8b3fe913a3188d10907e6ddb3a0e0*. That commit occurred on November 12, 2019.
+The older code used in the simulation portion of the first paper is still available, though, in this repo's history using the following hash: **cef3404787e8b3fe913a3188d10907e6ddb3a0e0**. That commit occurred on November 12, 2019.
 
 The first version of the paper that appeared in the SocArXiv is still available there.
